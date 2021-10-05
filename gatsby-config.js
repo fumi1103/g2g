@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `第一回半期ラボ振り返り`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `松山文貴`,
+      summary: `＠ラボ滝沢`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `ラボ滝沢での半期を振り返ります`,
+    siteUrl: `https://fumi1103.github.io/g2g/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kykyky`,
     },
   },
   plugins: [
